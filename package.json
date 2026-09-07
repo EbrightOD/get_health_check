@@ -1,0 +1,23 @@
+{
+  "name": "get-health-check",
+  "version": "1.0.0",
+  "description": "On-demand CLI health check for every repository in the EbrightOD GitHub org",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.0.2",
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.5",
+    "dotenv": "^16.4.5",
+    "nodemailer": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/nodemailer": "^8.0.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
