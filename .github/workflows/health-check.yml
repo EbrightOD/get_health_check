@@ -1,0 +1,31 @@
+name: Repo Health Check
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - run: npm run check
+        env:
+          GITHUB_TOKEN: ${{ secrets.HEALTH_CHECK_PAT }}
+          GITHUB_ORG: EbrightOD
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_HOST: smtp.gmail.com
+          SMTP_PORT: 465
+          SMTP_SECURE: "true"
+          SMTP_USER: od@ebright.my
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_EMAIL_TO: od@ebright.my
