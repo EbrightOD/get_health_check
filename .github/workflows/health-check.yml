@@ -5,6 +5,9 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   health-check:
     runs-on: ubuntu-latest
@@ -29,3 +32,17 @@ jobs:
           SMTP_USER: od@ebright.my
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           ALERT_EMAIL_TO: od@ebright.my
+
+      # Publish the snapshot so the Ebright dashboard can pull it
+      # (GET contents/data/latest.json?ref=health-data). Orphan branch, one
+      # force-pushed commit per run, so main's history stays clean.
+      - name: Publish snapshot to health-data branch
+        run: |
+          mkdir -p /tmp/snap/data && cp reports/latest.json /tmp/snap/data/latest.json
+          cd /tmp/snap
+          git init -q -b health-data
+          git config user.name "health-check-bot"
+          git config user.email "health-check-bot@users.noreply.github.com"
+          git add data/latest.json
+          git commit -q -m "Health snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" health-data

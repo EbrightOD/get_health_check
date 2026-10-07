@@ -1,4 +1,5 @@
 import "dotenv/config";
+import { writeFileSync } from "node:fs";
 import chalk from "chalk";
 import { createClient, listOrgRepos } from "./github.js";
 import { checkActivity } from "./checks/activity.js";
@@ -93,6 +94,13 @@ async function main() {
   printReport(results);
   const reportPath = writeMarkdownReport(results, "reports");
   console.log(chalk.gray(`\nFull report written to ${reportPath}`));
+
+  // Machine-readable snapshot - the CI workflow publishes this to the
+  // `health-data` branch, where the Ebright dashboard pulls it from.
+  writeFileSync(
+    "reports/latest.json",
+    JSON.stringify({ generatedAt: new Date().toISOString(), repos: results }, null, 2)
+  );
 
   const failing = results.filter((r) => r.status === "red");
   if (failing.length > 0) {
