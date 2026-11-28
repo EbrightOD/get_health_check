@@ -1,0 +1,851 @@
+{
+  "generatedAt": "2026-11-28T09:52:32.910Z",
+  "repos": [
+    {
+      "name": "Anounymous-Forum",
+      "fullName": "EbrightOD/Anounymous-Forum",
+      "url": "https://github.com/EbrightOD/Anounymous-Forum",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-24T04:31:51Z",
+        "daysSinceLastPush": 4
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/Anounymous-Forum/actions/runs/45327038089"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "API-integration",
+      "fullName": "EbrightOD/API-integration",
+      "url": "https://github.com/EbrightOD/API-integration",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-06T07:33:48Z",
+        "daysSinceLastPush": 22
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/API-integration/actions/runs/42181690973"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "Client-Nexus-System",
+      "fullName": "EbrightOD/Client-Nexus-System",
+      "url": "https://github.com/EbrightOD/Client-Nexus-System",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-09-29T09:08:14Z",
+        "daysSinceLastPush": 60
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "DAHYUNI",
+      "fullName": "EbrightOD/DAHYUNI",
+      "url": "https://github.com/EbrightOD/DAHYUNI",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-28T01:48:44Z",
+        "daysSinceLastPush": 0
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "failure",
+        "runUrl": "https://github.com/EbrightOD/DAHYUNI/actions/runs/46093782139"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 1,
+        "oldestOpenPrDays": 35
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "red",
+      "notes": [
+        "Latest CI run failed",
+        "Dependency vulnerability alerts disabled",
+        "Oldest open PR is 35 days old"
+      ]
+    },
+    {
+      "name": "DoomMaster",
+      "fullName": "EbrightOD/DoomMaster",
+      "url": "https://github.com/EbrightOD/DoomMaster",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-07-03T02:44:46Z",
+        "daysSinceLastPush": 148
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "No push in 148 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "ebright-internal-dashboard_v1.0",
+      "fullName": "EbrightOD/ebright-internal-dashboard_v1.0",
+      "url": "https://github.com/EbrightOD/ebright-internal-dashboard_v1.0",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "master",
+        "lastPushedAt": "2026-11-28T07:35:17Z",
+        "daysSinceLastPush": 0
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/ebright-internal-dashboard_v1.0/actions/runs/46121898095"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "ebright-landing",
+      "fullName": "EbrightOD/ebright-landing",
+      "url": "https://github.com/EbrightOD/ebright-landing",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-06-18T11:57:02Z",
+        "daysSinceLastPush": 162
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/ebright-landing/actions/runs/27757755963"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "No push in 162 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "ebright-website",
+      "fullName": "EbrightOD/ebright-website",
+      "url": "https://github.com/EbrightOD/ebright-website",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-06T07:30:14Z",
+        "daysSinceLastPush": 22
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/ebright-website/actions/runs/42181294481"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "ebright-website-V2",
+      "fullName": "EbrightOD/ebright-website-V2",
+      "url": "https://github.com/EbrightOD/ebright-website-V2",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-06-19T03:24:25Z",
+        "daysSinceLastPush": 162
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/ebright-website-V2/actions/runs/27803416616"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "No push in 162 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "ebrightsms",
+      "fullName": "EbrightOD/ebrightsms",
+      "url": "https://github.com/EbrightOD/ebrightsms",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-28T09:32:28Z",
+        "daysSinceLastPush": 0
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/ebrightsms/actions/runs/46126183903"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 1,
+        "oldestOpenPrDays": 0
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "ebright_cep",
+      "fullName": "EbrightOD/ebright_cep",
+      "url": "https://github.com/EbrightOD/ebright_cep",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-09-19T05:48:41Z",
+        "daysSinceLastPush": 70
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "Ebright_OSC_V2",
+      "fullName": "EbrightOD/Ebright_OSC_V2",
+      "url": "https://github.com/EbrightOD/Ebright_OSC_V2",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-28T09:24:06Z",
+        "daysSinceLastPush": 0
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/Ebright_OSC_V2/actions/runs/46130300410"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "Ebrigth_OSC",
+      "fullName": "EbrightOD/Ebrigth_OSC",
+      "url": "https://github.com/EbrightOD/Ebrigth_OSC",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-28T09:46:58Z",
+        "daysSinceLastPush": 0
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "failure",
+        "runUrl": "https://github.com/EbrightOD/Ebrigth_OSC/actions/runs/46106778759"
+      },
+      "issuesPrs": {
+        "openIssueCount": 1,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "red",
+      "notes": [
+        "Latest CI run failed",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "Emp_Folder",
+      "fullName": "EbrightOD/Emp_Folder",
+      "url": "https://github.com/EbrightOD/Emp_Folder",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-07-22T08:12:43Z",
+        "daysSinceLastPush": 129
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "No push in 129 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "get_health_check",
+      "fullName": "EbrightOD/get_health_check",
+      "url": "https://github.com/EbrightOD/get_health_check",
+      "private": false,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-28T01:12:40Z",
+        "daysSinceLastPush": 0
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "in_progress",
+        "latestConclusion": null,
+        "runUrl": "https://github.com/EbrightOD/get_health_check/actions/runs/46132488643"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "Inventory",
+      "fullName": "EbrightOD/Inventory",
+      "url": "https://github.com/EbrightOD/Inventory",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-28T05:31:10Z",
+        "daysSinceLastPush": 0
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/Inventory/actions/runs/42971785968"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "MasterTracker",
+      "fullName": "EbrightOD/MasterTracker",
+      "url": "https://github.com/EbrightOD/MasterTracker",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-06-04T07:48:21Z",
+        "daysSinceLastPush": 177
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/MasterTracker/actions/runs/26938354268"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "No push in 177 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "OpenClaw_Consultation-Transcript",
+      "fullName": "EbrightOD/OpenClaw_Consultation-Transcript",
+      "url": "https://github.com/EbrightOD/OpenClaw_Consultation-Transcript",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-28T08:44:23Z",
+        "daysSinceLastPush": 0
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "Opticor",
+      "fullName": "EbrightOD/Opticor",
+      "url": "https://github.com/EbrightOD/Opticor",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-10-07T03:23:51Z",
+        "daysSinceLastPush": 52
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/Opticor/actions/runs/37566554087"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "OptiDept",
+      "fullName": "EbrightOD/OptiDept",
+      "url": "https://github.com/EbrightOD/OptiDept",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-01-22T04:35:11Z",
+        "daysSinceLastPush": 310
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "No push in 310 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "red-alert",
+      "fullName": "EbrightOD/red-alert",
+      "url": "https://github.com/EbrightOD/red-alert",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-27T07:09:38Z",
+        "daysSinceLastPush": 1
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "success",
+        "runUrl": "https://github.com/EbrightOD/red-alert/actions/runs/45956545276"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "scanner-2",
+      "fullName": "EbrightOD/scanner-2",
+      "url": "https://github.com/EbrightOD/scanner-2",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-04-17T10:31:32Z",
+        "daysSinceLastPush": 224
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "No push in 224 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "website_landing_page",
+      "fullName": "EbrightOD/website_landing_page",
+      "url": "https://github.com/EbrightOD/website_landing_page",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-05-13T11:06:42Z",
+        "daysSinceLastPush": 198
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "No push in 198 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "wixwebsite",
+      "fullName": "EbrightOD/wixwebsite",
+      "url": "https://github.com/EbrightOD/wixwebsite",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-05-12T07:23:36Z",
+        "daysSinceLastPush": 200
+      },
+      "ci": {
+        "hasWorkflows": true,
+        "latestStatus": "completed",
+        "latestConclusion": "failure",
+        "runUrl": "https://github.com/EbrightOD/wixwebsite/actions/runs/25719851058"
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "red",
+      "notes": [
+        "Latest CI run failed",
+        "No push in 200 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "YQ_TaskManager",
+      "fullName": "EbrightOD/YQ_TaskManager",
+      "url": "https://github.com/EbrightOD/YQ_TaskManager",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-07-16T09:17:46Z",
+        "daysSinceLastPush": 135
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "No push in 135 days",
+        "Dependency vulnerability alerts disabled"
+      ]
+    },
+    {
+      "name": "zoom-salestrail-overlay",
+      "fullName": "EbrightOD/zoom-salestrail-overlay",
+      "url": "https://github.com/EbrightOD/zoom-salestrail-overlay",
+      "private": true,
+      "archived": false,
+      "activity": {
+        "defaultBranch": "main",
+        "lastPushedAt": "2026-11-26T09:33:15Z",
+        "daysSinceLastPush": 2
+      },
+      "ci": {
+        "hasWorkflows": false,
+        "latestStatus": null,
+        "latestConclusion": null,
+        "runUrl": null
+      },
+      "issuesPrs": {
+        "openIssueCount": 0,
+        "openPrCount": 0,
+        "oldestOpenPrDays": null
+      },
+      "security": {
+        "vulnerabilityAlertsEnabled": false,
+        "dependabotAlertCount": null,
+        "dependabotAlertsAccessible": false
+      },
+      "status": "yellow",
+      "notes": [
+        "Dependency vulnerability alerts disabled"
+      ]
+    }
+  ]
+}
